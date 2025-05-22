@@ -6,25 +6,28 @@ This repository documents my AI engineering internship focused on developing ful
 ## Repository Structure
 
 ```
-├── weekly-updates/          # Weekly progress reports and reflections
 ├── architecture/           # System designs and architectural decisions
 │   ├── diagrams/          # Technical diagrams and flows
 │   └── decisions/         # Architecture decision records (ADRs)
-├── projects/              # Sample projects and demonstrations
-│   ├── snippets/         # Code examples (sanitized)
-│   └── demos/            # Mini-projects showcasing concepts
 ├── learning/             # Knowledge base and learning materials
 │   ├── technologies/     # Tech stack documentation
 │   ├── ai-concepts/      # AI/ML concepts learned
 │   └── resources/        # Useful links and references
-└── presentations/        # Slides and presentation materials
+├── presentations/        # Slides and presentation materials
+│   ├── slides/          # Presentation decks
+│   ├── demos/           # Demo materials
+│   └── diagrams/        # Supporting visuals
+├── projects/              # Sample projects and demonstrations
+│   ├── snippets/         # Code examples (sanitized)
+│   └── demos/            # Mini-projects showcasing concepts
+└── weekly-updates/          # Weekly progress reports and reflections
 ```
 
 ## Weekly Updates
 Weekly progress reports are stored in the `weekly-updates` directory, named by date (YYYY-MM-DD.md).
 
 ## Projects & Code
-Code snippets and demonstrations are carefully curated to respect confidentiality while showcasing technical concepts.
+Code snippets and demonstrations are curated to respect confidentiality while showcasing technical concepts.
 
 ## Technologies Used
 - Frontend: [List your main frontend technologies]
@@ -33,7 +36,8 @@ Code snippets and demonstrations are carefully curated to respect confidentialit
 - Infrastructure: [List deployment and infrastructure tools]
 
 ## Getting Started
-1. Weekly updates can be found in the `weekly-updates` directory
-2. Architecture decisions and system designs are in `architecture`
-3. Sample code and demos are in `projects`
-4. Learning materials and resources are in `learning`
+1. Architecture decisions and system designs are in `architecture`
+2. Learning materials and resources are in `learning`
+3. Presentation materials can be found in `presentations`
+4. Sample code and demos are in `projects`
+5. Weekly updates can be found in the `weekly-updates` directory
