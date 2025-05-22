@@ -30,10 +30,10 @@ Weekly progress reports are stored in the `weekly-updates` directory, named by d
 Code snippets and demonstrations are curated to respect confidentiality while showcasing technical concepts.
 
 ## Technologies Used
-- Frontend: [List your main frontend technologies]
-- Backend: [List your main backend technologies]
-- AI/ML: [List main AI frameworks and tools]
-- Infrastructure: [List deployment and infrastructure tools]
+- Frontend: React, TypeScript, Tailwind CSS
+- Backend: FastAPI, Python, SQLAlchemy
+- AI/ML: OpenAI, LangChain, CrewAI, AutoGen
+- Infrastructure: Azure Function Apps, Docker
 
 ## Getting Started
 1. Architecture decisions and system designs are in `architecture`
